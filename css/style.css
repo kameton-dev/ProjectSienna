@@ -256,7 +256,8 @@ main {
 }
 
 .links a,
-.projects a {
+.projects a,
+footer a {
     color: var(--secondary-color);
     text-decoration: none;
     font-weight: 500;
@@ -264,7 +265,8 @@ main {
 }
 
 .links a:hover,
-.projects a:hover {
+.projects a:hover,
+footer a:hover {
     color: var(--accent-color);
     text-decoration: underline;
 }
